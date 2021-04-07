@@ -1,9 +1,7 @@
 package main
 
 import (
-	"encoding/json"
-	"fmt"
-	"net/http"
+	"encoding/json"	"net/http"
 	"os"
 
 	handlers "github.com/gorilla/handlers"
